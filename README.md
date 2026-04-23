@@ -5,11 +5,11 @@
 <img src="https://img.shields.io/badge/Method-KMS%20%7C%20PowerShell-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Working-success?style=for-the-badge"/>
 
-# 🪟 Windows Activator — Free & Permanent
+# 🪟 Lorapok Windows Activator — Free & Permanent
 
 **Activate Windows 10 / 11 for free using KMS or PowerShell — no paid keys, no third-party software.**
 
-[� View Full Guide](https://maijied.github.io/Lorapok-Windows-Activator/) · [⭐ Star this Repo](https://github.com/Maijied/Lorapok-Windows-Activator) · [🐛 Report Issue](https://github.com/Maijied/Lorapok-Windows-Activator/issues)
+[� View Full Guide](https://maijied.github.io/Lorapok-Windows-Activator/) · [⭐ Star this Repo](https://github.com/maijied/Lorapok-Windows-Activator) · [🐛 Report Issue](https://github.com/maijied/Lorapok-Windows-Activator/issues)
 
 </div>
 
@@ -146,31 +146,6 @@ slmgr /ato
 
 ---
 
-## 💰 Support
-
 <div align="center">
-
-*If this project helped you, consider supporting future development.*
-
-[![Support](https://img.shields.io/badge/Explore%20Ways%20to%20Support-0A0A0A?style=for-the-badge&logo=buymeacoffee&logoColor=38BDF8)](https://supportmkr.netlify.app/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/mkr_infinity)
-
-</div>
-
-### Crypto Donations
-
-| Network | Address |
-|:--------|:--------|
-| TON | `UQDTX8QV6csepk9U1-dGzhoPfE4MUZTzAjjVE6YVIKVWuVj1` |
-| Ethereum (ETH) | `0x56dC57B9D03C6b947e49a28edC7e18FBe383365a` |
-| Solana (SOL) | `9JEjaDCfe9esp6ECpyww7Gm3NUcieiy7hMU1pKMQVWxP` |
-
-<div align="center">
-  <sub>Secure · Direct · Transparent</sub>
-</div>
-
----
-
-<div align="center">
-  <sub>© 2026 Maijied · Free to use · No warranty implied</sub>
+  <sub>© 2026 maijied · Free to use · No warranty implied</sub>
 </div>

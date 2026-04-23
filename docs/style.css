@@ -544,40 +544,6 @@ img { max-width: 100%; border-radius: 8px; display: block; }
   margin-bottom: 40px;
 }
 
-.crypto-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 16px;
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-.crypto-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 20px 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.crypto-name {
-  font-size: 0.75rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--text-muted);
-}
-
-.crypto-addr {
-  font-family: var(--mono);
-  font-size: 0.75rem;
-  color: #7dd3fc;
-  word-break: break-all;
-  line-height: 1.5;
-}
-
 /* ===== FOOTER ===== */
 .footer {
   border-top: 1px solid var(--border);
