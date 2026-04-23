@@ -153,6 +153,36 @@ slmgr /ato
 
 ---
 
+## 👤 About the Author
+
+<div align="center">
+
+**Mohammad Maizied Hasan Majumder**
+Application Developer · Open Source Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-maijied-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maijied)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maizied-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maizied/)
+
+</div>
+
+---
+
+## ☕ Buy Me a Coffee — bKash
+
+Sending from Bangladesh? Support via **bKash Send Money**:
+
+<div align="center">
+
+<img src="docs/bkash-qr.png" width="220" alt="bKash QR Code"/>
+
+**📱 bKash Number: `01629158131`**
+
+*Open bKash app → Send Money → Scan QR or enter number above*
+
+</div>
+
+---
+
 ## 💛 Decentralized Support
 
 If this project helped you, consider supporting via USDT on any of the networks below. No accounts, no middlemen — direct on-chain.
@@ -169,19 +199,6 @@ If this project helped you, consider supporting via USDT on any of the networks 
 
 ---
 
-## ☕ Buy Me a Coffee — bKash
-
-Sending from Bangladesh? Support via **bKash Send Money**:
-
-| Method | Details |
-|:-------|:--------|
-| 📱 bKash Number | `01629158131` |
-| Type | Send Money |
-
-> Scan the QR code in the bKash app or send directly to the number above.
-
----
-
 <div align="center">
-  <sub>© 2026 maijied · Free to use · No warranty implied</sub>
+  <sub>© 2026 <a href="https://github.com/maijied">maijied</a> · Free to use · No warranty implied</sub>
 </div>
