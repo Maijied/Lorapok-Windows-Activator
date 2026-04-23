@@ -136,13 +136,13 @@ slmgr /ato
 | Enterprise N | `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` |
 
 > [!TIP]
-> Not sure which edition you have? See [Check Your Windows Version](#-check-your-windows-version) below.
+> Not sure which edition you have? [Click here to open Windows Activation settings](ms-settings:activation) — it shows your current edition under **System › Activation**.
 
 ---
 
 ## 🖥️ Check Your Windows Version
 
-**Right-click** the Start button → select **System** → look under **Edition** in the second section.
+[**Click here to open System › Activation**](ms-settings:activation) — your Windows edition is shown at the top of that page.
 
 ---
 
