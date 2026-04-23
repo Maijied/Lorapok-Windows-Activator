@@ -173,7 +173,7 @@ Sending from Bangladesh? Support via **bKash Send Money**:
 
 <div align="center">
 
-<img src="docs/bkash-qr.png" width="220" alt="bKash QR Code"/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=01629158131&margin=10" width="180" alt="bKash QR Code"/>
 
 **📱 bKash Number: `01629158131`**
 
