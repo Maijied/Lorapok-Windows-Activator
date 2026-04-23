@@ -169,6 +169,19 @@ If this project helped you, consider supporting via USDT on any of the networks 
 
 ---
 
+## ☕ Buy Me a Coffee — bKash
+
+Sending from Bangladesh? Support via **bKash Send Money**:
+
+| Method | Details |
+|:-------|:--------|
+| 📱 bKash Number | `01629158131` |
+| Type | Send Money |
+
+> Scan the QR code in the bKash app or send directly to the number above.
+
+---
+
 <div align="center">
   <sub>© 2026 maijied · Free to use · No warranty implied</sub>
 </div>

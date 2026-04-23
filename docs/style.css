@@ -608,6 +608,31 @@ img { max-width: 100%; border-radius: 8px; display: block; }
   color: var(--text-dim);
 }
 
+.bkash-card {
+  border-color: rgba(226, 0, 116, 0.3);
+  background: linear-gradient(135deg, var(--surface) 0%, rgba(226,0,116,0.04) 100%);
+}
+
+.bkash-card:hover { border-color: rgba(226, 0, 116, 0.6); }
+
+.bkash-token {
+  background: rgba(226,0,116,0.15) !important;
+  color: #f472b6 !important;
+  border: 1px solid rgba(226,0,116,0.3) !important;
+}
+
+.bkash-number {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.bkash-label {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
 /* ===== FOOTER ===== */
 .footer {
   border-top: 1px solid var(--border);
@@ -644,6 +669,8 @@ img { max-width: 100%; border-radius: 8px; display: block; }
 .footer-crypto-item code:hover { color: #fff; }
 
 .footer-crypto-sep { color: var(--border); }
+
+.bkash-footer code { color: #f472b6 !important; }
 
 .footer-inner {
   display: flex;
