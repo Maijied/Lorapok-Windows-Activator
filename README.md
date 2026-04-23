@@ -153,27 +153,13 @@ slmgr /ato
 
 ---
 
-## 👤 About the Author
-
-<div align="center">
-
-**Mohammad Maizied Hasan Majumder**
-Application Developer · Open Source Enthusiast
-
-[![GitHub](https://img.shields.io/badge/GitHub-maijied-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maijied)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maizied-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maizied/)
-
-</div>
-
----
-
 ## ☕ Buy Me a Coffee — bKash
 
 Sending from Bangladesh? Support via **bKash Send Money**:
 
 <div align="center">
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=01629158131&margin=10" width="180" alt="bKash QR Code"/>
+<img src="docs/bkash-qr.png" width="200" alt="bKash QR Code"/>
 
 **📱 bKash Number: `01629158131`**
 
@@ -196,6 +182,20 @@ If this project helped you, consider supporting via USDT on any of the networks 
 | Aptos | USDT | `0xb9a6776cfce10ee3755ecaa39f8aeb5b4f1edaa0adaccf4c79260c63bce27e3d` |
 
 > ⚠️ Only send USDT to the matching network. Do not send NFTs or other tokens.
+
+---
+
+## 👤 About the Author
+
+<div align="center">
+
+**Mohammad Maizied Hasan Majumder**
+Application Developer · Open Source Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-maijied-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maijied)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maizied-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maizied/)
+
+</div>
 
 ---
 
