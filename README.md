@@ -146,6 +146,29 @@ slmgr /ato
 
 ---
 
+## ⚠️ Legal Disclaimer
+
+> [!WARNING]
+> The author is **not responsible** if the use of this tool is illegal in your country or violates any government regulations, licensing laws, or local policies. It is your sole responsibility to ensure compliance with the laws applicable in your jurisdiction before using this software. Use at your own risk.
+
+---
+
+## 💛 Decentralized Support
+
+If this project helped you, consider supporting via USDT on any of the networks below. No accounts, no middlemen — direct on-chain.
+
+| Network | Token | Address |
+|:--------|:------|:--------|
+| BNB Smart Chain (BEP20) | USDT | `0xfbaae60922e40bdcc82142ac6d6ff9c69bb12d26` |
+| Ethereum (ERC20) | USDT | `0xfbaae60922e40bdcc82142ac6d6ff9c69bb12d26` |
+| Solana | USDT | `HMbxpSyhSS99xC9fVdMMtbnrbjBEvSP2ww2KXUoqwe7D` |
+| Tron (TRC20) | USDT | `TNicohFHB9VYPSq2ksqRD73Ubhi9QVAVZm` |
+| Aptos | USDT | `0xb9a6776cfce10ee3755ecaa39f8aeb5b4f1edaa0adaccf4c79260c63bce27e3d` |
+
+> ⚠️ Only send USDT to the matching network. Do not send NFTs or other tokens.
+
+---
+
 <div align="center">
   <sub>© 2026 maijied · Free to use · No warranty implied</sub>
 </div>
